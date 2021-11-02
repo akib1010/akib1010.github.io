@@ -41,6 +41,7 @@ Walmart, St Vital Center, Winnipeg, MB
 ### Volunteer Experience
 
 **Peer Advisor** ~ 2017-2018 
+
 International College of Manitoba
 
 *  Assist in all matters associated with student welfare, including course advice and
