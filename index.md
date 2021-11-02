@@ -3,7 +3,7 @@
 +12046981935 | akib1010@gmail.com | rahmanf1@myumanitoba.ca  
 
 ---
-<u>**Education**</u>
+**Education**
  
 * 4th Year at Faculty of Science, Major in Computer Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018-present
 University of Manitoba  
@@ -11,7 +11,7 @@ GPA: 3.7/4.5
 Expected Date of Graduation: May 2022  
 
 ---
-<u>**Related Skills**</u>  
+**Related Skills**
 
 **Computer Skills** 
  
@@ -29,7 +29,7 @@ Operating Systems -MS Windows, Mac OS, Red Hat Linux
 
 
 ---
-<u>**Work Experience**</u> 
+**Work Experience**
  
  **Customer Experience Salesfloor Associate**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018-2019  
 Walmart, St Vital Center, Winnipeg, MB  
@@ -38,7 +38,7 @@ Walmart, St Vital Center, Winnipeg, MB
 *  Covering and zoning an assigned area(s) on the salesfloor
 *  Communicating with other associates to ensure floor coverage is maintained
 
-<u>**Volunteer Experience**</u>
+**Volunteer Experience**
 
 **Peer Advisor**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2017-2018
 
@@ -51,7 +51,7 @@ with the development of study skills
 
 ---
 
-<u>**Projects**</u>
+**Projects**
 
 **Good Habits**
 
@@ -70,11 +70,11 @@ with the development of study skills
 * Implemented a non-interactive command line interface with pipes and redirection support, using C++
 
 ---
-<u>**Awards**</u>
+**Awards**
 
 Dean's Honour List, Faculty of Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020-present
 
-<u>**Interests**</u>
+**Interests**
 
 Web design, Software Development, Sports, Music and Cooking
  
