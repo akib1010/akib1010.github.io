@@ -40,7 +40,8 @@ Walmart, St Vital Center, Winnipeg, MB
 
 ### Volunteer Experience
 
-**Peer Advisor** ~ 2017-2018
+**Peer Advisor** ~ 2017-2018 
+International College of Manitoba
 
 *  Assist in all matters associated with student welfare, including course advice and
 academic performance, and ensuring access to appropriate referral and advocacy
@@ -54,7 +55,6 @@ with the development of study skills
 ### Projects
 
 **Good Habits**
-
 
 * Designed and developed an android application with a team
 * Followed best design principles and practices to optimize user experience
