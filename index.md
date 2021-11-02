@@ -15,7 +15,7 @@ Expected Date of Graduation: May 2022
 
 **Technical** 
  
-| Languages| Java, Python, JavaScript, C/C++, SQL, HTML|
+| Languages| Java, Python, JavaScript, C/C++, SQL, HTML, System Tap|
 ------------ | -------------
  **Software**| **Vim, VS code, IntelliJ, R Studio, Android Studio, MS Excel, MS Word, MS Powerpoint**
  **Operating Systems**| **MS Windows, Mac OS, Red Hat Linux**
