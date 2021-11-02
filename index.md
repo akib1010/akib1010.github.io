@@ -3,25 +3,25 @@
 +12046981935 | akib1010@gmail.com | rahmanf1@myumanitoba.ca  
 
 ---
-**Education**
+### Education
  
-* 4th Year at Faculty of Science, Major in Computer Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018-present
+* 4th Year at Faculty of Science, Major in Computer Science ~ 2018-present  
 University of Manitoba  
 GPA: 3.7/4.5  
 Expected Date of Graduation: May 2022  
 
 ---
-**Related Skills**
+### Related Skills   
 
-**Computer Skills** 
+**Technical** 
  
-Languages  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Java, Python, JavaScript, C/C++, SQL, HTML
+| Languages| Java, Python, JavaScript, C/C++, SQL, HTML|
+------------ | -------------
+ **Software**| **Vim, VS code, IntelliJ, R Studio, Android Studio, MS Excel, MS Word, MS Powerpoint**
+ **Operating Systems**| **MS Windows, Mac OS, Red Hat Linux**
 
-Software&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-Vim, VS code, IntelliJ, R Studio, Android Studio, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;MS Excel, MS Word, MS Powerpoint
 
-Operating Systems -MS Windows, Mac OS, Red Hat Linux 
-
-**Leadership Skills**  
+**Leadership**  
 
 * Supervised and trained personnel in a retail store to ensure that the store's values and mission are upheld among employees and that exceptional customer service is maintained
 * Demonstrated management skills by organizing tasks and facilitating communication between team members during a software development project
@@ -29,18 +29,18 @@ Operating Systems -MS Windows, Mac OS, Red Hat Linux
 
 
 ---
-**Work Experience**
+### Work Experience 
  
- **Customer Experience Salesfloor Associate**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018-2019  
+ **Customer Experience Salesfloor Associate** ~ 2018-2019  
 Walmart, St Vital Center, Winnipeg, MB  
 
 * Providing excellent Customer Service by greeting all customers in a polite and friendly manner, assisting customers by promoting products/services, locating merchandise and making purchase decisions, resolving customer issues and referring concerns where appropriate
 *  Covering and zoning an assigned area(s) on the salesfloor
 *  Communicating with other associates to ensure floor coverage is maintained
 
-**Volunteer Experience**
+### Volunteer Experience
 
-**Peer Advisor**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2017-2018
+**Peer Advisor** ~ 2017-2018
 
 *  Assist in all matters associated with student welfare, including course advice and
 academic performance, and ensuring access to appropriate referral and advocacy
@@ -51,7 +51,7 @@ with the development of study skills
 
 ---
 
-**Projects**
+### Projects
 
 **Good Habits**
 
@@ -70,13 +70,21 @@ with the development of study skills
 * Implemented a non-interactive command line interface with pipes and redirection support, using C++
 
 ---
-**Awards**
+### Awards
 
-Dean's Honour List, Faculty of Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020-present
+Dean's Honour List, Faculty of Science ~ 2020-present
 
-**Interests**
+---
+
+### Interests
 
 Web design, Software Development, Sports, Music and Cooking
+ 
+
+                                                    
+                                                                        
+
+
  
 
                                                     
