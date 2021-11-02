@@ -88,7 +88,6 @@ Dean's Honour List, Faculty of Science ~ 2020-present
 Web design, Software Development, Sports, Music and Cooking
 
 ```
-**More Resources**: [MarkDown Tutorial](https://www.markdowntutorial.com/)
 
 # 1) Write a resume using a Lightweight Markup Language
 For this step the most preferred language is Markdown, according to Andrew Etter in his book Moder Technical writing 
@@ -123,10 +122,10 @@ Etter emphesizes on the use of distribution version control systems (DVCS) becau
 * Supports all popular programming languages 
 * Streamlines iteration process
 
-Since we will be using **GitHub Pages** to host our resume having a GitHub account is **necessary**
+Since we will be using **GitHub Pages** to host our resume having a GitHub account is **necessary**.
 
 ### Install Git
-i) Clink the [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instructions for your operating system
+i) Clink the [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instructions for your operating system.
 
 ### Joining GitHub  
 i) Click the [link](https://github.com/login)   
@@ -148,9 +147,9 @@ iii) Open the command line tool and locate to the directory where you wish to do
 ```
 	git clone <URL>
 ```  
-iv) This command will download your repository to your local machine  
-v) Rename your resume to "index.md" and paste it to the local repository  
-vi) Type the following in the command line tool (make sure you are located in the directory of your local repository) 
+This command will download your repository to your local machine  
+iv) Rename your resume to "index.md" and paste it to the local repository  
+v) Type the following in the command line tool (make sure you are located in the directory of your local repository) 
 ```
 	git add *
 ```  
@@ -160,7 +159,7 @@ vi) Type the following in the command line tool (make sure you are located in th
 ```
 	git push
 ```  
-vii) This will successfully upload your resume into your online repository  
+This will successfully upload your resume into your online repository  
 
 
 
@@ -177,6 +176,24 @@ vi) Scroll down and press "Commit Changes"
 vii) Open a web browser and type in "\<YOUR USER NAME\>.github.io", to view your resume on a static website  
 
 
+![AnimatedGif](https://media.giphy.com/media/eLSfc5a1vWQ9KyJDQu/giphy.gif)
+
+
+### More Resources
+* [MarkDown Tutorial](https://www.markdowntutorial.com/)  
+* [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter  
+* [GitHub Pages](https://pages.github.com/)  
+
+
+Authors and Acknowledgments: This document was written Farhan Akib Rahman, using Andrew Etter's book *Modern Technical Writing* as reference. Reviewed by  
+
+### FAQs
+
+1) Why is my resume not displaying the theme I selected?  
+If the markdown file is not written in Git Hub Flavored format the system will not render it accurately, which will cause the website to look different and the theme to not show up.
+
+2) Do I have to use GitHub to host my static webpage?  
+No, a static site can be manually hosted by using a generator like Jekyll or Sphinx, by providing a lightweight markup and a theme. The site can be updated by editting the content and processing everything again.  
 
 
 
