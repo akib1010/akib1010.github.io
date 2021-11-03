@@ -1,95 +1,14 @@
-# Readme
+# Hosting a Resume to GitHub Pages
 
-A description of how to host and prepare a résumé using Markdown, GitHub pages, and Jekyll relating to the principles of current technical writing according to the book *Moder Technical Writing* by Andrew Etter.
+**Purpose:** A step-by-step instruction of how to host a résumé to a static website using Markdown, GitHub pages, and Jekyll relating to the principles of current technical writing according to the book *Moder Technical Writing* by Andrew Etter. 
 
-### Markdown formatted resume
+**Prerequisites:**  
+* Have a GitHub flavoured Markdown formatted resume ready  
+* Know what is a distribution version control system like GitHub, GitLab etc  
+* Be able to install Git in your operating system 
 
-```
-# Farhan Akib Rahman
-163 Thatcher Dr, Winnipeg, MB, R3T 2L7  
-+12046981935 | akib1010@gmail.com | rahmanf1@myumanitoba.ca  
-
----
-### Education
- 
-* 4th Year at Faculty of Science, Major in Computer Science ~ 2018-present  
-University of Manitoba  
-GPA: 3.7/4.5  
-Expected Date of Graduation: May 2022  
-
----
-### Related Skills   
-
-**Technical** 
- 
-| Languages| Java, Python, JavaScript, C/C++, SQL, HTML, System Tap|
------------- | -------------
- **Software**| **Vim, VS code, IntelliJ, R Studio, Android Studio, MS Excel, MS Word, MS Powerpoint**
- **Operating Systems**| **MS Windows, Mac OS, Red Hat Linux**
-
-
-**Leadership**  
-
-* Supervised and trained personnel in a retail store to ensure that the store's values and mission are upheld among employees and that exceptional customer service is maintained
-* Demonstrated management skills by organizing tasks and facilitating communication between team members during a software development project
-* Captained a first division basketball team, coached and motivated the team to perform at their maximum potential
-
-
----
-### Work Experience 
- 
- **Customer Experience Salesfloor Associate** ~ 2018-2019  
-Walmart, St Vital Center, Winnipeg, MB  
-
-* Providing excellent Customer Service by greeting all customers in a polite and friendly manner, assisting customers by promoting products/services, locating merchandise and making purchase decisions, resolving customer issues and referring concerns where appropriate
-*  Covering and zoning an assigned area(s) on the salesfloor
-*  Communicating with other associates to ensure floor coverage is maintained
-
-### Volunteer Experience
-
-**Peer Advisor** ~ 2017-2018  
-International College of Manitoba
-
-*  Assist in all matters associated with student welfare, including course advice and
-academic performance, and ensuring access to appropriate referral and advocacy
-services
-* Assist with the implementation of programs and services which promote the wellbeing of students throughout their studies. 
-* Assist with the implementation and monitoring of programs and services which assist
-with the development of study skills
-
----
-
-### Projects
-
-**Good Habits**
-
-* Designed and developed an android application with a team
-* Followed best design principles and practices to optimize user experience
-* Achived high level of assesment from supervising instructor after evaluation
-
-**Web Scraper**
-
-* Developed a program to scrape data from selected websites
-* Implemented using python library (BeautifulSoup) and HTML
-
-**Non-Interactive Shell**
-
-* Implemented a non-interactive command line interface with pipes and redirection support, using C++
-
----
-### Awards
-
-Dean's Honour List, Faculty of Science ~ 2020-present
-
----
-
-### Interests
-
-Web design, Software Development, Sports, Music and Cooking
-
-```
-
-# 1) Write a resume using a Lightweight Markup Language
+**Instructions**  
+## 1) Write a resume using a Lightweight Markup Language
 For this step the most preferred language is Markdown, according to Andrew Etter in his book Moder Technical writing 
 >“it is the most widely used markup language in the world” 
 
@@ -115,7 +34,7 @@ Some popular editors for Markdown suggested by Etter are:
 * [iA Writer](https://ia.net/writer) (Mac OS)
 * [ReText](https://www.linuxhelp.com/how-to-install-retext-7-0-1-on-ubuntu-18-04) (Linux)
 
-# 2) Create a GitHub Account and Create a repository
+## 2) Create a GitHub Account and Create a repository
 Etter emphesizes on the use of distribution version control systems (DVCS) because modern software developers favor the use of such technology and would prefer to have their code and documentation stored at the same place.  
 [Github](https://github.com/) is an excellent choice for a DVCS as it is the worlds largest open source repository with benefits such as:
 * Cloud storage for source code
@@ -163,7 +82,7 @@ This will successfully upload your resume into your online repository
 
 
 
-# 3) Hosting on GitHub Pages  
+## 3) Hosting on GitHub Pages  
 Static Websites are great for documentation, some benefits mentioned by Etter are, having no dependencies and easy migration.
 GitHub pages uses Jekyll to host static sites and even allows the option of adding styles to documentation.
 The steps needed to host a static website with a theme are:  
@@ -185,7 +104,7 @@ vii) Open a web browser and type in "\<YOUR USER NAME\>.github.io", to view your
 * [GitHub Pages](https://pages.github.com/)  
 
 
-Authors and Acknowledgments: This document was written Farhan Akib Rahman, using Andrew Etter's book *Modern Technical Writing* as reference. Reviewed by  
+Authors and Acknowledgments: This document was written Farhan Akib Rahman, using Andrew Etter's book *Modern Technical Writing* as reference. Reviewed by Haseeb Paracha, Akshay Sharma, Zhijie Zheng and Kien Mai
 
 ### FAQs
 
